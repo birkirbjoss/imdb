@@ -1,0 +1,38 @@
+[
+	{
+		"title": "It",
+		"year": "2017",
+		"length": "175",
+		"genres": ["Drama, Horror"],
+		"director": "Andy Muschietti",
+		"stars": ["Bill Skarsgård, Jaeden Lieberher, Finn Wolfhard"],
+		"moviePlot": "A group of bullied kids band together when a monster, taking the appearance of a clown, begins hunting children."
+
+		},
+
+	{
+		"title": "Home Again",
+		"year": "2017",
+		"length": "97",
+		"genres": ["Comedy, Drama, Romance"],
+		"director": "Hallie Meyers-Shyer",
+		"stars": ["Nat Wolff, Reese Witherspoon, Lake Bell"],
+		"moviePlot": "Life for a single mom in Los Angeles takes an unexpected turn when she allows three young guys to move in with her."
+
+
+
+	},
+
+		{
+		"title": "La fille inconnue",
+		"year": "2016",
+		"length": "113",
+		"genres": ["Crime, Drama, Mistery"],
+		"director": ["Jean-Pierre Dardanne, Luc Dardanne"],
+		"stars": ["Adéle Haenel, Olivier Bonnaud, Jérémie Renier"],
+		"moviePlot": "A woman gets obsessed with the case of a dead woman after learning that the woman had died shortly after having rung her door for help."
+	}
+
+
+
+]
